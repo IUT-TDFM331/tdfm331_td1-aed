@@ -44,3 +44,7 @@ codes couvert/non couverts par les tests.
 - Commits à chaque nouvelle fonctionnalité 
 - Attention, je dois pouvoir identifier clairement le travail de chaque membre du groupe. Ne laissez pas une seule personne macher tout le boulot. 
 
+## Contributors
+
+Mustapha Ait Hamou S3TG3 am803056
+
